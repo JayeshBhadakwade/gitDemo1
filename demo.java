@@ -1,9 +1,11 @@
-class{
+class demo{
 
-public static vid main()
+public static void main()
 {
 
-	System.out.println("git Demo");
+	System.out.println("git Demo1");
+	System.out.println("git Demo2");
+	System.out.println("git Demo3");
 }
 
 
